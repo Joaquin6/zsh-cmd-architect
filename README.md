@@ -5,7 +5,7 @@
 # Zsh Command Architect
 
 Also check out [![ZNT](http://imageshack.com/a/img910/3618/oDHnuR.png) Zsh Navigation Tools](https://github.com/psprint/zsh-navigation-tools)
-and [![ZEW](http://imageshack.com/a/img908/3869/Vsd2c6.png) Zsh Editing Workbench](https://github.com/psprint/zsh-editing-workbench)
+and [![ZEW](http://imageshack.com/a/img908/3869/Vsd2c6.png) Zsh Editing Workbench](https://github.com/commiyou/zsh-editing-workbench)
 
 Zsh Command Architect in action:
 ![zca](http://imageshack.com/a/img905/3617/grLOeP.gif)
@@ -25,11 +25,11 @@ After installing and reloading shell give `ZCA` a quick try with `Ctrl-T`.
 
 ## Installation With [Zplugin](https://github.com/psprint/zplugin)
 
-Add `zplugin load psprint/zsh-cmd-architect` to `.zshrc`. The config files will be available in `~/.config/zca`.
+Add `zplugin load Joaquin6/zsh-cmd-architect` to `.zshrc`. The config files will be available in `~/.config/zca`.
 
-## Installation With Zgen
+## Installation With Zgenom
 
-Add `zgen load psprint/zsh-cmd-architect` to `.zshrc` and issue a `zgen reset` (this assumes that there is a proper `zgen save` construct in `.zshrc`).
+Add `zgen load Joaquin6/zsh-cmd-architect` to `.zshrc` and issue a `zgen reset` (this assumes that there is a proper `zgen save` construct in `.zshrc`).
 The config files will be available in `~/.config/zca`.
 
 ## Installation With Antigen
